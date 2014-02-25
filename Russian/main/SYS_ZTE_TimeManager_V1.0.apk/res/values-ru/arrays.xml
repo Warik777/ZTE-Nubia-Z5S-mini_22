@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Будильник установлен на время, менее, чем через 1 минуту.</item>
+        <item>Будильник установлен через %1$s от данного момента.</item>
+        <item>Этот будильник установлена через %2$s от данного момента.</item>
+        <item>Будильник установлен через %1$s и %2$s от данного момента.</item>
+        <item>Будильник установлен через %3$s от данного момента.</item>
+        <item>Будильник установлен через %1$s и %3$s от данного момента.</item>
+        <item>Будильник установлен через %2$s и %3$s от данного момента.</item>
+        <item>Будильник установлен через %1$s, %2$s, и %3$s от данного момента.</item>
+    </string-array>
+    <string-array name="alarm_next_set">
+        <item>будильник установлен на время, менее, чем через 1 минуту.</item>
+        <item>Будильник установлен через %1$s от данного момента.</item>
+        <item>Будильник установлен через %2$s от данного момента.</item>
+        <item>Будильник установлен через %1$s и %2$s от данного момента.</item>
+        <item>Будильник установлен через %3$s) от данного момента.</item>
+        <item>Будильник установлен через %1$s и %3$s от данного момента.</item>
+        <item>Будильник установлен через %2$s и %3$s от данного момента.</item>
+        <item>Будильник установлен через %1$s, %2$s, и %3$s от данного момента.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>Напомнить через</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>Повторить</item>
+        <item>1 раз</item>
+        <item>3 раза</item>
+        <item>5 раз</item>
+        <item>бесконечность</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>00</item>
+        <item>101</item>
+        <item>103</item>
+        <item>105</item>
+        <item>10000</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Откл</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="auto_silence_values">
+        <item>-1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Нет</item>
+        <item>Напомнить</item>
+        <item>Пропустить</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="leftday_set">
+        <item>Сегодня</item>
+        <item>Завтра</item>
+        <item>%1$s дней</item>
+        <item>%1$s дней</item>
+    </string-array>
+    <string-array name="alarm_type_entries">
+        <item>звонок</item>
+        <item>вибрация</item>
+        <item>вибрация и звонок</item>
+    </string-array>
+    <string-array name="alarm_type_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="ampm">
+        <item>" AM "</item>
+        <item>" PM "</item>
+    </string-array>
+    <string-array name="savescreen_ampms">
+        <item>AM</item>
+        <item>AM</item>
+        <item>AM</item>
+        <item>AM</item>
+        <item>PM</item>
+        <item>PM</item>
+        <item>PM</item>
+        <item>PM</item>
+    </string-array>
+</resources>

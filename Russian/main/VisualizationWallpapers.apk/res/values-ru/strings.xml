@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Визуализатор</string>
+    <string name="wallpaper_vis2">Волны</string>
+    <string name="wallpaper_vis3">Спектр</string>
+    <string name="wallpaper_vis4">Индикатор VU</string>
+    <string name="wallpaper_vis5">Много</string>
+    <string name="wallpapers">Визуализация музыкальных обой</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">Рисует звук волны любой воспроизводимой дорожки.</string>
+    <string name="vis3_desc">Отображает частотный спектр любой воспроизводимой дорожки.</string>
+    <string name="vis4_desc">Симулирует аналоговый измеритель звука.</string>
+    <string name="vis5_desc">Все музыкальные визуализации вместе, медленно вращаясь в 3D.</string>
+</resources>

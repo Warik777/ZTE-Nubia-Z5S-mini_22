@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="resolution_list_options">
+        <item>Разрешение WVGA</item>
+        <item>Разрешение 720P</item>
+        <item>Разрешение 1080P</item>
+    </string-array>
+    <string-array name="bitrate_list_options">
+        <item>12 Мбит/с</item>
+        <item>16 Мбит/с</item>
+        <item>20 Мбит/с</item>
+    </string-array>
+</resources>
