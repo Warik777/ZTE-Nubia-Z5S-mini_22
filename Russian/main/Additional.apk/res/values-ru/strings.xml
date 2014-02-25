@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Дополнительные</string>
+    <string name="inter_version_title">Внутренняя версия</string>
+    <string name="inter_baseband_version">Версия основной полосы:</string>
+    <string name="inter_internal_version">Версия:</string>
+    <string name="inter_compile_time">Время компиляции:</string>
+    <string name="inter_modem_gpio">Модем GPIO:</string>
+    <string name="inter_app_gpio">Приложение GPIO:</string>
+    <string name="inter_unknown">Неизвестно</string>
+    <string name="port_title">Заводской порт</string>
+    <string name="adb_title">Adb порт</string>
+    <string name="screen_calibration">Калибровка экрана, пожалуйста, подождите</string>
+    <string name="screen_calib_finished">Калибровка закончена</string>
+    <string name="screen_calib_fail">Сбой калибровки</string>
+    <string name="screen_calib_not_required">Сенсорный экран калибровки не требуется</string>
+    <string name="screen_calib_plugged">Пожалуйста, отсоедините USB или зарядное устройство и попробуйте снова</string>
+    <string name="screen_calib_pressed">"Пожалуйста, не касайтесь экрана и повторите попытку"</string>
+    <string name="screen_calib_tips">"Положите устройство на изолирующий стол на 5 секунд, не подключайте USB и зарядное устройство, не прикасаться к экрану во время калибровки."</string>
+    <string name="lte_hide">Скрыть сетевой режим LTE</string>
+    <string name="cal_button_title">СТАРТ</string>
+    <string name="prox_calibration_title">Prox-калибровка датчика</string>
+    <string name="prox_signal_strength">Мощность сигнала :</string>
+    <string name="prox_signal_over_high_exception">"Сигнал слишком сильный!
+Пожалуйста, попробуйте снова."</string>
+    <string name="prox_signal_over_low_exception">"Сигнал слишком слаб !
+Пожалуйста, попробуйте снова."</string>
+    <string name="signal_percent">ProxSensor Signal Percent : %1$.2f%%</string>
+    <string name="prox_calibrate_success">Prox датчик откалиброван успешно!</string>
+    <string name="prox_calibrate_access_exception">Драйвер не поддерживают эту функцию!</string>
+</resources>

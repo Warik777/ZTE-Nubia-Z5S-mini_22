@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Привет мир!</string>
+    <string name="app_name">Ftp-Сервер</string>
+    <string name="bind_service">привязать сервис</string>
+    <string name="unbind_service">unbind службы</string>
+    <string name="start_server">запуск сервера</string>
+    <string name="stop_server">остановка сервера</string>
+    <string name="get_server_host">получить хоста сервера</string>
+    <string name="get_server_port">получить порт сервера</string>
+    <string name="get_username">получить логин</string>
+    <string name="get_password">получить пароль</string>
+    <string name="update_userinfo">обновление сведений о пользователях</string>
+    <string name="set_username">установить имя пользователя</string>
+    <string name="set_password">установить пароль</string>
+    <string name="set_port">установить порт</string>
+</resources>

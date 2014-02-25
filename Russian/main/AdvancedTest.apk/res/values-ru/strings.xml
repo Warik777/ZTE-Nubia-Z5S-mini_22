@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Приветствие !</string>
+    <string name="app_name">Расширенный тест</string>
+    <string name="advanced_bluetooth_test">Bluetooth тест</string>
+    <string name="exit_bt_test_mode">Выход из режима тестирования</string>
+    <string name="advanced_wifi_test">Wi-Fi тест</string>
+    <string name="advanced_gps_test">GPS тест</string>
+    <string name="advanced_back">Назад</string>
+    <string name="wifi_error">Невозможно включить Wi-Fi</string>
+    <string name="title_paired_devices">Сопряженные устройства</string>
+    <string name="title_other_devices">Другие устройства</string>
+    <string name="button_scan">Сканировать</string>
+    <string name="scanning">Сканирование</string>
+    <string name="select_device">Выберите устройство</string>
+    <string name="none_found">Не найдено</string>
+    <string name="bt_test_mode">Bluetooth в режиме тестирования</string>
+    <string name="progtitle">Сканирование</string>
+    <string name="progtitle_bluetooth">Выключение</string>
+    <string name="bluetooth_enable">Ожидаем... Включение Bluetooth</string>
+    <string name="bt_waiting">Ожидание...</string>
+    <string name="progtitle_enable">Активация</string>
+    <string name="wifi_enable">Ожидаем... Включение Wi-Fi</string>
+    <string name="progmessage_bluetooth">Ожидаем... Вsключение Bluetooth</string>
+    <string name="progmessage_wifi">Ожидаем... Сканирование Wi-Fi</string>
+    <string name="bluetooth_not_avaliable">Bluetooth не доступен</string>
+    <string name="bluetooth_not_enable">Bluetooth не доступен. Ожидаем…</string>
+    <string name="wifi_not_enable">Wi-Fi не включен</string>
+    <string name="wifi_not_avaliable">Wi-Fi не доступен</string>
+    <string name="wifi_scan_fail">Сканирование Wi-Fi не удалось</string>
+    <string name="bluetooth_request_enable">Ожидание включения bluetooth</string>
+    <string name="gps_satellite_num">Номер спутника GPS:</string>
+    <string name="gps_started">Ожидание сигнала от спутника…</string>
+    <string name="provider_disnabled">Поставщик услуг отключен</string>
+    <string name="provider_enabled">Поставщик услуг включен</string>
+    <string name="gps_status">Ожидание GPS...</string>
+    <string name="gps_enabled_fail">Не удалось запустить GPS</string>
+    <string name="wifi_signal_3">Превосходный</string>
+    <string name="wifi_signal_2">Хороший</string>
+    <string name="wifi_signal_1">средний</string>
+    <string name="wifi_signal_0">Низкий</string>
+    <string name="wifi_signal_x">Неизвестен</string>
+    <string name="wifi_signal_level">Уровень сигала:</string>
+    <string name="initting">Инициализация…</string>
+    <string name="success">"Успешно 
+Переход в CTA тестовый режим Wi-Fi"</string>
+    <string name="fail">Инициализация не удалась!</string>
+</resources>

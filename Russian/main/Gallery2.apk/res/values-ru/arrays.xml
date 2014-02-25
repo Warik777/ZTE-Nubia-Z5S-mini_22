@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_dialog_items">
+        <item>Сохранить</item>
+        <item>Поделиться</item>
+        <item>Камера</item>
+        <item>Меню</item>
+    </string-array>
+    <string-array name="ztouch_photo_select_warning">
+        <item>Выбрана 1 фотография</item>
+        <item>Выбрано 2 фотографии</item>
+        <item>Выбрано 3 фотографии</item>
+        <item>Выбрано 4 фотографии</item>
+    </string-array>
+    <string-array name="move_items">
+        <item>Вырезать</item>
+        <item>Копировать</item>
+    </string-array>
+</resources>

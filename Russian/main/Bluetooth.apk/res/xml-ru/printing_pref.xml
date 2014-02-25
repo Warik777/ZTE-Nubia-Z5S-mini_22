@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Настройки печати">
+        <EditTextPreference android:title="Количество копий" android:key="text_copies" android:summary="Нажмите на всплывающее поле для ввода" android:dialogTitle="Введите число от 0 до 9 страниц для печати" />
+        <ListPreference android:entries="@array/numberup" android:title="Страниц на одной стороне" android:key="list_numberup" android:summary="Нажмите на всплывающий список чтобы выбрать" android:dialogTitle="Выбор страниц на одной стороне" android:entryValues="@array/numberup_val" />
+        <ListPreference android:entries="@array/orientation" android:title="Ориентация" android:key="list_orient" android:summary="Нажмите на всплывающий список чтобы выбрать" android:dialogTitle="Выбор ориентации" android:entryValues="@array/orientation_val" />
+        <ListPreference android:entries="@array/sides" android:title="Стороны" android:key="list_sides" android:summary="Нажмите на всплывающий список чтобы выбрать" android:dialogTitle="Выберите количество копий для печати" android:entryValues="@array/sides_val" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Начать печать">
+        <PreferenceScreen android:title="Начать печать" android:key="print" android:summary="Нажмите кнопку, чтобы начать печать" />
+    </PreferenceCategory>
+</PreferenceScreen>
