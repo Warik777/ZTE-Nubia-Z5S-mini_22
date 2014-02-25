@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FotaApplication</string>
+    <string name="find_firmware_title">Откройте для себя новые прошивки</string>
+    <string name="find_firmware_warning_title">Микропрограммные обеспечения касания экрана может быть обновлен, во время процесса обновления:</string>
+    <string name="find_firmware_warning"><li>Будьте уверены, что вы не коснетесь экрана телефона</li>"
+"<li>Не забудьте нажать на кнопку телефона</li></string>
+    <string name="update_cancel">Отмена</string>
+    <string name="dlg_ok">ОК</string>
+    <string name="upgrade_firmware">Начать обновление</string>
+    <string name="upgrade_title">Обновление...</string>
+    <string name="upgrade_warning">Вы можете положить телефон на стол, до завершения обновления.</string>
+    <string name="low_battery_warning">Низкий заряд батареи</string>
+    <string name="unplug_charger">Пожалуйста, отсоедините USB-кабель!</string>
+    <string name="charge_text">Батарея телефона заряжена менее чем на 20%, вы можете попробовать обновить при запуске телефона в следующий раз.</string>
+    <string name="upgrade_finished">Обновление успешно!</string>
+    <string name="upgrade_failed">Ошибка обновления!</string>
+    <string name="upgrade_failed_summary">Для обновления снова, попробуйте перезагрузиться.</string>
+    <string name="finish_laugh">: )</string>
+    <string name="finish_cry">: (</string>
+    <string name="alert_image_description">предупреждение</string>
+    <string name="caution">ПРЕДУПРЕЖДЕНИЕ</string>
+</resources>
