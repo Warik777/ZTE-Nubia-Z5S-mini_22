@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Приветствую</string>
+    <string name="app_name">DevDiscovery</string>
+    <string name="wifi_start_time">Логи</string>
+    <string name="Button_Binder">Связь</string>
+    <string name="Button_Stop">Стоп</string>
+    <string name="Button_Listen">Слушать</string>
+    <string name="Button_Broadcast">Широковещание</string>
+</resources>

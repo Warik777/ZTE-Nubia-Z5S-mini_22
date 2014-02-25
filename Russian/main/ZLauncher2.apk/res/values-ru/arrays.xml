@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_dialog_items2">
+        <item>По умолчанию</item>
+        <item>Классическа</item>
+        <item>Вереница</item>
+        <item>Куб</item>
+        <item>Поворот</item>
+        <item>Сжатие</item>
+        <item>Куб изнутри</item>
+        <item>Наложение</item>
+    </string-array>
+</resources>

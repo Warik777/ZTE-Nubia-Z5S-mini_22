@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Обновление отчета об ошибках</string>
+    <string name="activity_account_intro_register_btn">Отправить</string>
+    <string name="activity_account_intro_login_btn">Отмена</string>
+    <string name="account_intro_title">Обновление отчета об ошибках</string>
+    <string name="add_bugreport">Добавить отчет об ошибке</string>
+    <string name="settings">Настройки</string>
+    <string name="enable_data">Нет сети, пожалуйста подключитесь к беспроводной сети</string>
+    <string name="account_note_title">Пожалуйста напишите ваши предложения и замечания:</string>
+    <string name="response_message">Благодарим за ваш отзыв и предложения</string>
+</resources>

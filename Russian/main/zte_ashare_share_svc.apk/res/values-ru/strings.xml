@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Привет мир!</string>
+    <string name="app_name">Служба обмена WL</string>
+    <string name="discovery_not_finish">Обнаружение Bluetooth не закончил!</string>
+    <string name="bt_toast_4">Переход к</string>
+    <string name="bt_toast_5">отправить фил</string>
+</resources>

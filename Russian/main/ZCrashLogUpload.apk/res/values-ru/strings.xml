@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exception Feekback</string>
+    <string name="error">Причина ошибок:</string>
+    <string name="send">Отправить</string>
+    <string name="cancel">Отмена</string>
+    <string name="no_sdcard">Нет SD карты.</string>
+    <string name="successed">выгружено успешно</string>
+    <string name="failed">ошибка выгрузки</string>
+    <string name="enable_data">Передача данных включена</string>
+    <string name="settings">Настройки</string>
+    <string name="title_hint">Пожалуйста, введите заголовок</string>
+    <string name="steps_hint">Пожалуйста, введите шаги</string>
+    <string name="title">Заголовок:</string>
+    <string name="steps">Ваши шаги:</string>
+    <string name="error_tips">Заголовок и Шаги не могут быть пустыми</string>
+</resources>

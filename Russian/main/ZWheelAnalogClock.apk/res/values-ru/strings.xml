@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Аналоговые часы</string>
+    <string name="clock1">Аналоговые часы</string>
+    <string name="clock2">Аналоговые часы</string>
+    <string name="black_clock">Аналоговые часы</string>
+    <string name="cool_clock">Аналоговые часы</string>
+    <string name="digit_widget">Цифровые часы</string>
+</resources>

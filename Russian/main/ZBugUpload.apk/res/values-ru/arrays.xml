@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_name">
+        <item>Китай (Основная территория)</item>
+    </string-array>
+    <string-array name="safe_question">
+        <item>Нет спец. Вопроса</item>
+        <item>Имя Вашей мамы?</item>
+        <item>Имя Вашего дедушки?</item>
+        <item>В каком городе родился Ваш отец?</item>
+        <item>Как звали одного из Ваших учителей?</item>
+        <item>Модель Вашего компьютера?</item>
+        <item>Название любимого ресторана?</item>
+        <item>Последние 4 цифры Вашего водительского удостоверения?</item>
+    </string-array>
+</resources>

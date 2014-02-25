@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ster_mon_entries">
+        <item>Стерео</item>
+        <item>Моно</item>
+    </string-array>
+    <string-array name="record_durations_entries">
+        <item>5 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>До остановки</item>
+    </string-array>
+    <string-array name="sleep_duration_values">
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+    </string-array>
+    <string-array name="search_category_rbds_entries">
+        <item>Все станции</item>
+        <item>Хиты для взрослых</item>
+        <item>Классика</item>
+        <item>Классический рок</item>
+        <item>Колледж</item>
+        <item>Кантри</item>
+        <item>Критическая ситуация</item>
+        <item>Тест критической ситуации</item>
+        <item>Иностранный язык</item>
+        <item>Информация</item>
+        <item>Джаз</item>
+        <item>Новости</item>
+        <item>Ностальгия</item>
+        <item>Старые хиты</item>
+        <item>Личность</item>
+        <item>Публика</item>
+        <item>Религиозная музыка</item>
+        <item>Религиозные беседы</item>
+        <item>Ритм-энд-блюз</item>
+        <item>Рок</item>
+        <item>Софт</item>
+        <item>Софт-рок</item>
+        <item>Софт ритм-энд-блюз</item>
+        <item>Спорт</item>
+        <item>Беседы</item>
+        <item>Топ 40</item>
+        <item>Кантри</item>
+    </string-array>
+    <string-array name="search_category_rds_entries">
+        <item>Все станции</item>
+        <item>Культура</item>
+        <item>Текущие новости</item>
+        <item>Программы для детей</item>
+        <item>Кантри музыка</item>
+        <item>Документальные программы</item>
+        <item>Постановки</item>
+        <item>Легкая музыка</item>
+        <item>Образование</item>
+        <item>Критическая ситуация</item>
+        <item>Тест критической ситуации</item>
+        <item>Финансы</item>
+        <item>Фолк музыка</item>
+        <item>Информация</item>
+        <item>Джазовая музыка</item>
+        <item>Легкая классика</item>
+        <item>Развлечения</item>
+        <item>Новости</item>
+        <item>Национальная музыка</item>
+        <item>Другая музыка</item>
+        <item>Старые хиты</item>
+        <item>Телефон</item>
+        <item>Поп музыка</item>
+        <item>Религия</item>
+        <item>Рок музыка</item>
+        <item>Наука</item>
+        <item>Серьезная классика</item>
+        <item>Общественные новости</item>
+        <item>Спорт</item>
+        <item>Путешествия</item>
+        <item>Разное</item>
+        <item>Погода</item>
+    </string-array>
+    <string-array name="rbds_pty_entries">
+        <item>Новости</item>
+        <item>Информация</item>
+        <item>Спорт</item>
+        <item>Беседы</item>
+        <item>Рок</item>
+        <item>Классический рок</item>
+        <item>Хиты для взрослых</item>
+        <item>Софт-рок</item>
+        <item>Топ 40</item>
+        <item>Кантри</item>
+        <item>Старые хиты</item>
+        <item>Софт</item>
+        <item>Ностальгия</item>
+        <item>Джаз</item>
+        <item>Классика</item>
+        <item>Ритм-энд-блюз</item>
+        <item>Софт ритм-энд-блюз</item>
+        <item>Иностранный язык</item>
+        <item>Религиозная музыка</item>
+        <item>Религиозные беседы</item>
+        <item>Личность</item>
+        <item>Публика</item>
+        <item>Колледж</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Погода</item>
+        <item>Тест критической ситуации</item>
+        <item>Критическая ситуация</item>
+    </string-array>
+    <string-array name="rds_pty_entries">
+        <item>Новости</item>
+        <item>Текущие новости</item>
+        <item>Информация</item>
+        <item>Спорт</item>
+        <item>Образование</item>
+        <item>Постановки</item>
+        <item>Культура</item>
+        <item>Наука</item>
+        <item>Разное</item>
+        <item>Поп музыка</item>
+        <item>Рок музыка</item>
+        <item>Легкая музыка</item>
+        <item>Легкая классика</item>
+        <item>Серьезная классика</item>
+        <item>Другая музыка</item>
+        <item>Погода</item>
+        <item>Финансы</item>
+        <item>Программы для детей</item>
+        <item>Общественные новости</item>
+        <item>Религия</item>
+        <item>Телефон</item>
+        <item>Путешествия</item>
+        <item>Развлечения</item>
+        <item>Джазовая музыка</item>
+        <item>Кантри музыка</item>
+        <item>Национальная музыка</item>
+        <item>Старые хиты</item>
+        <item>Фолк музыка</item>
+        <item>Документальные программы</item>
+        <item>Тест критической ситуации</item>
+        <item>Критическая ситуация</item>
+    </string-array>
+    <string-array name="presetlist_edit_category">
+        <item>Переименовать</item>
+        <item>Авто-выбор</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="regional_band_entries">
+        <item>Северная Америка</item>
+        <item>Европа</item>
+        <item>Япония</item>
+        <item>Япония (расшир)</item>
+        <item>Австралия</item>
+        <item>Австрия</item>
+        <item>Бельгия</item>
+        <item>Бразилия</item>
+        <item>Китай</item>
+        <item>Чехия</item>
+        <item>Дания</item>
+        <item>Финляндия</item>
+        <item>Франция</item>
+        <item>Германия</item>
+        <item>Греция</item>
+        <item>Китай Гонконг</item>
+        <item>Индия</item>
+        <item>Ирландия</item>
+        <item>Италия</item>
+        <item>Корея</item>
+        <item>Мексика</item>
+        <item>Нидерланды</item>
+        <item>Новая Зеландия</item>
+        <item>Норвегия</item>
+        <item>Польша</item>
+        <item>Португалия</item>
+        <item>Россия</item>
+        <item>Сингапур</item>
+        <item>Словакия</item>
+        <item>Испания</item>
+        <item>Швейцария</item>
+        <item>Швеция</item>
+        <item>Китай Тайвань</item>
+        <item>Турция</item>
+        <item>Соединенное Королевство</item>
+        <item>Соединенные Штаты</item>
+        <item>Венесуэла</item>
+    </string-array>
+    <string-array name="regional_band_summary">
+        <item>Северная Америка (87.5МГц до 108.0МГц в 200 кГц)</item>
+        <item>Европа (87.5МГц до 108.0МГц в 100 кГц)</item>
+        <item>Япония (76.0МГц до 90.0МГц в 100 кГц)</item>
+        <item>Япония (расшир) (90.0МГц до 108.0МГц в 50 кГц)</item>
+        <item>Австралия (87.7МГц до 108.0МГц в 100 кГц)</item>
+        <item>Австрия (87.5МГц до 108.0МГц в 50 кГц)</item>
+        <item>Бельгия (87.5МГц до 108.0МГц в 100 кГц)</item>
+        <item>Бразилия (87.8МГц до 108.0МГц в 200 кГц)</item>
+        <item>Китай (87.5МГц до 108.0MHz In 100 Khz Steps)</item>
+        <item>Чехия (87.5МГц до 108.0МГц в 100 кГц)</item>
+        <item>Дания (87.5МГц до 108.0МГц в 50 кГц)</item>
+        <item>Финляндия (87.5МГц до 108.0МГц в 100 кГц)</item>
+        <item>Франция (87.5МГц до 108.0МГц в 100 кГц)</item>
+        <item>Германия (87.5МГц до 108.0МГц в 50 кГц)</item>
+        <item>Греция (87.5МГц до 108.0МГц в 50 кГц)</item>
+        <item>Китай Гонконг (87.5МГц до 108.0МГц в 100 кГц)</item>
+        <item>Индия (91.0МГц до 106.4МГц в 100 кГц)</item>
+        <item>Ирландия (87.5МГц до 108.0МГц в 50 кГц)</item>
+        <item>Италия (87.5МГц до 108.0МГц в 50 кГц)</item>
+        <item>Корея (87.5МГц до 108.0МГц в 200 кГц)</item>
+        <item>Мексика (88.1МГц до 107.9МГц в 200 кГц)</item>
+        <item>Нидерланды (87.5МГц до 108.0МГц в 100 кГц)</item>
+        <item>Новая Зеландия (88.0МГц до 107.0МГц в 100 кГц)</item>
+        <item>Норвегия (87.5МГц до 108.0МГц в 100 кГц)</item>
+        <item>Польша (88.0МГц до 108.0МГц в 50 кГц)</item>
+        <item>Португалия (87.5МГц до 108.0МГц в 50 кГц)</item>
+        <item>Россия (87.5МГц до 108.0МГц в 100 кГц)</item>
+        <item>Сингапур (88.0МГц до 108.0МГц в 100 кГц)</item>
+        <item>Словакия (87.5МГц до 108.0МГц в 100 кГц)</item>
+        <item>Испания (87.5МГц до 108.0МГц в 100 кГц)</item>
+        <item>Швейцария (87.5МГц до 108.0МГц в 100 кГц)</item>
+        <item>Швеция (87.5МГц до 108.0МГц в 100 кГц)</item>
+        <item>Китай Тайвань (87.5МГц до 108.0МГц в 100 кГц)</item>
+        <item>Турция (87.5МГц до 108.0МГц в 100 кГц)</item>
+        <item>Соединенное Королевство (87.5МГц до 108.0МГц в 100 кГц)</item>
+        <item>Соединенные Штаты (88.1МГц до 107.9МГц в 200 кГц)</item>
+        <item>Венесуэла (87.5МГц до 108.0МГц в 100 кГц)</item>
+    </string-array>
+    <string-array name="rf_cfg">
+        <item>Получить параметры текущей станции</item>
+        <item>Получать параметры станции каждые 20 минут</item>
+        <item>Получить параметры поиска станции</item>
+        <item>Получить параметры FM волны</item>
+        <item>Настроить параметры поиска FM</item>
+    </string-array>
+    <string-array name="cfg_rf">
+        <item>Установить FM RSSI Delta</item>
+        <item>Установить порог сигнала</item>
+        <item>RF статистика</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Выбрать опцию</item>
+        <item>Настроить параметры поиска FM</item>
+        <item>RF статистика</item>
+    </string-array>
+    <string-array name="auto_off_delay_summary">
+        <item>Выкл.</item>
+        <item>Через 30 мин</item>
+        <item>Через 1 час</item>
+        <item>Через 2 часа</item>
+    </string-array>
+    <string-array name="auto_off_delay_entries">
+        <item>Выкл.</item>
+        <item>Через 30 мин</item>
+        <item>Через 1 час</item>
+        <item>Через 2 часа</item>
+    </string-array>
+    <string-array name="auto_off_delay_message">
+        <item>Отключить автоотключение радио</item>
+        <item>Радио отключится через 30 минут</item>
+        <item>Радио отключится через 1 час</item>
+        <item>Радио отключится через 2 часа</item>
+    </string-array>
+    <string-array name="auto_sleep_msg">
+        <item></item>
+        <item>Радио автоматически отключится через 30 минут</item>
+        <item>Радио автоматически отключится через 1 час</item>
+        <item>Радио автоматически отключится через 2 часа</item>
+    </string-array>
+</resources>
