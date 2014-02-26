@@ -14,7 +14,7 @@
     <string name="open_picture">Фотография открывается…</string>
     <string name="reset">Сброс</string>
     <string name="contentDescription">Описание фотографии</string>
-    <string name="confirm_discard_picture">Вы действительно хотите отменить фото?</string>
+    <string name="confirm_discard_picture">Вы действительно хотите отменить изменения?</string>
     <string name="picture_contrast">Контрастность</string>
     <string name="beauty_brush_size">Размер кисти</string>
     <string name="waitforwork">Выполняется…</string>
