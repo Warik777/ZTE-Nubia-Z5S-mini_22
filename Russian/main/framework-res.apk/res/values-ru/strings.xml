@@ -1070,7 +1070,7 @@
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="date_picker_dialog_title">Настройка даты</string>
     <string name="date_time_set">Установить</string>
-    <string name="date_time_done">Done</string>
+    <string name="date_time_done">Готово</string>
     <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff900000">НОВОЕ: </font></string>
     <string name="perms_description_app">Источник: %1$s.</string>
     <string name="no_permissions">Не требуется разрешений</string>
