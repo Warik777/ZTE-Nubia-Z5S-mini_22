@@ -46,6 +46,63 @@
     <string name="config_wimaxServiceClassname" />
     <string name="config_wimaxStateTrackerClassname" />
     <string name="config_dreamsDefaultComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
+    <string name="month_long_standalone_january">Январь</string>
+    <string name="month_long_standalone_february">Февраль</string>
+    <string name="month_long_standalone_march">Март</string>
+    <string name="month_long_standalone_april">Апрель</string>
+    <string name="month_long_standalone_may">Май</string>
+    <string name="month_long_standalone_june">Июнь</string>
+    <string name="month_long_standalone_july">Июль</string>
+    <string name="month_long_standalone_august">Август</string>
+    <string name="month_long_standalone_september">Сентябрь</string>
+    <string name="month_long_standalone_october">Октябрь</string>
+    <string name="month_long_standalone_november">Ноябрь</string>
+    <string name="month_long_standalone_december">Декабрь</string>
+    <string name="month_long_january">Январь</string>
+    <string name="month_long_february">Февраль</string>
+    <string name="month_long_march">Март</string>
+    <string name="month_long_april">Апрель</string>
+    <string name="month_long_may">Май</string>
+    <string name="month_long_june">Июнь</string>
+    <string name="month_long_july">Июль</string>
+    <string name="month_long_august">Август</string>
+    <string name="month_long_september">Сентябрь</string>
+    <string name="month_long_october">Октябрь</string>
+    <string name="month_long_november">Ноябрь</string>
+    <string name="month_long_december">Декабрь</string>
+    <string name="day_of_week_long_sunday">Воскресенье</string>
+    <string name="day_of_week_long_monday">Понедельник</string>
+    <string name="day_of_week_long_tuesday">Вторник</string>
+    <string name="day_of_week_long_wednesday">Среда</string>
+    <string name="day_of_week_long_thursday">Четверг</string>
+    <string name="day_of_week_long_friday">Пятница</string>
+    <string name="day_of_week_long_saturday">Суббота</string>
+    <string name="day_of_week_medium_sunday">ВС</string>
+    <string name="day_of_week_medium_monday">ПН</string>
+    <string name="day_of_week_medium_tuesday">ВТ</string>
+    <string name="day_of_week_medium_wednesday">СР</string>
+    <string name="day_of_week_medium_thursday">ЧТ</string>
+    <string name="day_of_week_medium_friday">ПТ</string>
+    <string name="day_of_week_medium_saturday">СБ</string>
+    <string name="day_of_week_short_sunday">вс</string>
+    <string name="day_of_week_short_monday">пн</string>
+    <string name="day_of_week_short_tuesday">вт</string>
+    <string name="day_of_week_short_wednesday">ср</string>
+    <string name="day_of_week_short_thursday">чт</string>
+    <string name="day_of_week_short_friday">пт</string>
+    <string name="day_of_week_short_saturday">сб</string>
+    <string name="day_of_week_shortest_sunday">Вс</string>
+    <string name="day_of_week_shortest_monday">Пн</string>
+    <string name="day_of_week_shortest_tuesday">Вт</string>
+    <string name="day_of_week_shortest_wednesday">Ср</string>
+    <string name="day_of_week_shortest_thursday">Чт</string>
+    <string name="day_of_week_shortest_friday">Пт</string>
+    <string name="day_of_week_shortest_saturday">Сб</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="yesterday">Вчера</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
     <string name="hour_minute_24" formatted="false">%-k:%M</string>
     <string name="hour_minute_ampm" formatted="false">%-l:%M %p</string>
     <string name="hour_minute_cap_ampm" formatted="false">%-l:%M %^p</string>
@@ -54,50 +111,50 @@
     <string name="numeric_date" formatted="false">%d.%m.%Y</string>
     <string name="numeric_date_format">dd.MM.yyyy</string>
     <string name="numeric_date_template" formatted="false">%s.%s.%s</string>
-    <string name="month_day_year" formatted="false">%-e. %B %Y</string>
-    <string name="time_of_day" formatted="false">%H:%M:%S</string>
-    <string name="date_and_time" formatted="false">%d.%m.%Y, %H:%M:%S</string>
-    <string name="date_time">%1$s, %2$s</string>
-    <string name="time_date">%3$s, %1$s</string>
+    <string name="month_day_year" formatted="false">%-e %B %Y г.</string>
+    <string name="time_of_day" formatted="false">%-k:%M:%S</string>
+    <string name="date_and_time" formatted="false">%-k:%M:%S, %d.%m.%Y</string>
+    <string name="date_time">%2$s, %1$s</string>
+    <string name="time_date">%1$s, %3$s</string>
     <string name="abbrev_month_day_year" formatted="false">%d.%m.%Y</string>
-    <string name="month_day" formatted="false">%-e. %B</string>
+    <string name="month_day" formatted="false">%-e %B</string>
     <string name="month">%-B</string>
-    <string name="month_year" formatted="false">%B %Y</string>
-    <string name="abbrev_month_day" formatted="false">%-e. %b</string>
+    <string name="month_year" formatted="false">%-B %Y</string>
+    <string name="abbrev_month_day" formatted="false">%-e %b</string>
     <string name="abbrev_month">%-b</string>
-    <string name="abbrev_month_year" formatted="false">%b %Y</string>
+    <string name="abbrev_month_year" formatted="false">%-b %Y</string>
     <string name="time1_time2">%1$s - %2$s</string>
     <string name="date1_date2">%2$s - %5$s</string>
-    <string name="numeric_md1_md2">%3$s.%2$s. - %8$s.%7$s.</string>
-    <string name="numeric_wday1_md1_wday2_md2">%1$s, %3$s.%2$s. - %6$s, %8$s.%7$s.</string>
+    <string name="numeric_md1_md2">%3$s.%2$s - %8$s.%7$s</string>
+    <string name="numeric_wday1_md1_wday2_md2">%1$s, %3$s.%2$s – %6$s, %8$s.%7$s</string>
     <string name="numeric_mdy1_mdy2">%3$s.%2$s.%4$s - %8$s.%7$s.%9$s</string>
-    <string name="numeric_wday1_mdy1_wday2_mdy2">%1$s, %3$s.%2$s.%4$s - %6$s, %8$s.%7$s.%9$s</string>
-    <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %3$s.%2$s.%4$s, %5$s - %6$s, %8$s.%7$s.%9$s, %10$s</string>
-    <string name="numeric_md1_time1_md2_time2">%3$s.%2$s., %5$s - %8$s.%7$s., %10$s</string>
-    <string name="numeric_wday1_md1_time1_wday2_md2_time2">%1$s, %3$s.%2$s., %5$s - %6$s, %8$s.%7$s., %10$s</string>
-    <string name="numeric_mdy1_time1_mdy2_time2">%3$s.%2$s.%4$s, %5$s - %8$s.%7$s.%9$s, %10$s</string>
-    <string name="wday1_date1_time1_wday2_date2_time2">%1$s, %2$s, %3$s - %4$s, %5$s, %6$s</string>
+    <string name="numeric_wday1_mdy1_wday2_mdy2">%3$s.%2$s.%4$s - %8$s.%7$s.%9$s</string>
+    <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s, %3$s.%2$s.%4$s - %10$s, %6$s, %8$s.%7$s.%9$s</string>
+    <string name="numeric_md1_time1_md2_time2">%5$s, %3$s.%2$s - %10$s, %8$s.%7$s</string>
+    <string name="numeric_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s, %3$s.%2$s - %10$s, %6$s, %8$s.%7$s</string>
+    <string name="numeric_mdy1_time1_mdy2_time2">%5$s, %3$s.%2$s.%4$s - %10$s, %8$s.%7$s.%9$s</string>
+    <string name="wday1_date1_time1_wday2_date2_time2">%3$s, %1$s, %2$s - %6$s, %4$s, %5$s</string>
     <string name="wday1_date1_wday2_date2">%1$s, %2$s - %4$s, %5$s</string>
-    <string name="date1_time1_date2_time2">%2$s, %3$s - %5$s, %6$s</string>
-    <string name="time_wday_date">%2$s, %3$s, %1$s</string>
+    <string name="date1_time1_date2_time2">%3$s, %2$s - %6$s, %5$s</string>
+    <string name="time_wday_date">%1$s, %2$s, %3$s</string>
     <string name="wday_date">%2$s, %3$s</string>
     <string name="time_wday">%2$s, %1$s</string>
-    <string name="same_year_md1_md2">%3$s. %2$s - %8$s. %7$s</string>
-    <string name="same_year_wday1_md1_wday2_md2">%1$s, %3$s. %2$s - %6$s, %8$s. %7$s</string>
-    <string name="same_year_md1_time1_md2_time2">%3$s. %2$s, %5$s - %8$s. %7$s, %10$s</string>
-    <string name="same_month_md1_time1_md2_time2">%3$s. %2$s, %5$s - %8$s. %7$s, %10$s</string>
-    <string name="same_year_wday1_md1_time1_wday2_md2_time2">%1$s, %3$s. %2$s, %5$s - %6$s, %8$s. %7$s, %10$s</string>
-    <string name="same_month_wday1_md1_time1_wday2_md2_time2">%1$s, %3$s. %2$s, %5$s - %6$s, %8$s. %7$s, %10$s</string>
-    <string name="same_year_mdy1_time1_mdy2_time2">%3$s. %2$s %4$s, %5$s - %8$s. %7$s %9$s, %10$s</string>
-    <string name="same_month_mdy1_time1_mdy2_time2">%3$s. %2$s %4$s, %5$s - %8$s. %7$s %9$s, %10$s</string>
-    <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %3$s. %2$s %4$s, %5$s - %6$s, %8$s. %7$s %9$s, %10$s</string>
-    <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %3$s. %2$s %4$s, %5$s - %6$s, %8$s. %7$s %9$s, %10$s</string>
-    <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %3$s. %2$s %4$s - %6$s, %8$s. %7$s %9$s</string>
-    <string name="same_month_md1_md2">%3$s. - %8$s. %2$s</string>
-    <string name="same_month_wday1_md1_wday2_md2">%1$s, %3$s. %2$s - %6$s, %8$s. %7$s</string>
-    <string name="same_year_mdy1_mdy2">%3$s. %2$s - %8$s. %7$s %9$s</string>
-    <string name="same_month_mdy1_mdy2">%3$s. - %8$s. %2$s %9$s</string>
-    <string name="same_year_wday1_mdy1_wday2_mdy2">%1$s, %3$s. %2$s - %6$s, %8$s. %7$s %9$s</string>
+    <string name="same_year_md1_md2">%3$s %2$s - %8$s %7$s</string>
+    <string name="same_year_wday1_md1_wday2_md2">%1$s, %3$s %2$s - %6$s, %8$s %7$s</string>
+    <string name="same_year_md1_time1_md2_time2">%5$s, %3$s %2$s - %10$s, %8$s %7$s</string>
+    <string name="same_month_md1_time1_md2_time2">%5$s, %3$s %2$s - %10$s, %8$s %7$s</string>
+    <string name="same_year_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s, %3$s %2$s - %10$s, %6$s, %8$s %7$s</string>
+    <string name="same_month_wday1_md1_time1_wday2_md2_time2">%5$s, %1$s, %3$s %2$s - %10$s, %6$s, %8$s %7$s</string>
+    <string name="same_year_mdy1_time1_mdy2_time2">%5$s, %3$s %2$s %4$s - %10$s, %8$s %7$s %9$s</string>
+    <string name="same_month_mdy1_time1_mdy2_time2">%5$s, %3$s %2$s %4$s - %10$s, %8$s %7$s %9$s</string>
+    <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s, %3$s %2$s %4$s - %10$s, %6$s, %8$s %7$s %9$s</string>
+    <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s, %3$s %2$s %4$s - %10$s, %6$s, %8$s %7$s %9$s</string>
+    <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %3$s %2$s %4$s - %6$s, %8$s %7$s %9$s</string>
+    <string name="same_month_md1_md2">%3$s-%8$s %2$s</string>
+    <string name="same_month_wday1_md1_wday2_md2">%1$s, %3$s %2$s - %6$s, %8$s %7$s</string>
+    <string name="same_year_mdy1_mdy2">%3$s %2$s - %8$s %7$s %9$s г.</string>
+    <string name="same_month_mdy1_mdy2">%3$s-%8$s %2$s %9$s г.</string>
+    <string name="same_year_wday1_mdy1_wday2_mdy2">%3$s %2$s - %8$s %7$s %9$s г.</string>
     <string name="short_format_month">%b</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
@@ -115,7 +172,7 @@
     <string name="gigabyteShort">ГБ</string>
     <string name="terabyteShort">TБ</string>
     <string name="petabyteShort">ПБ</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="ellipsis">…</string>
     <string name="ellipsis_two_dots">...</string>
     <string name="mmiError">Неполадки подключения или неверный код MMI.</string>
