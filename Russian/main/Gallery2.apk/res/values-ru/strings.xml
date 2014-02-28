@@ -383,11 +383,14 @@
     <string name="jump">Подтвердить</string>
     <string name="start">Пуск</string>
     <string name="welcom_page1_text_main">3 режима фотосъемки</string>
-    <string name="welcom_page1_text_sub">Легко переключайтесь/меняйте направление, наслаждайтесь яркими кадрами</string>
+    <string name="welcom_page1_text_sub">
+Легко переключайтесь/меняйте направление, наслаждайтесь яркими кадрами</string>
     <string name="welcom_page2_text_main">Независимый фокус и экпозиция</string>
-    <string name="welcom_page2_text_sub">Характеристика работы профессиональной камеры</string>
+    <string name="welcom_page2_text_sub">
+Характеристика работы профессиональной камеры</string>
     <string name="welcom_page3_text_main">Мультиэкспозиция</string>
-    <string name="welcom_page3_text_sub">Удивляйте своим творчеством!</string>
+    <string name="welcom_page3_text_sub">
+Удивляйте своим творчеством!</string>
     <string name="welcom_to_nubia_camera">Вас приветствует Nubia камера</string>
     <string name="camera_save_done">Сохранено!</string>
     <string name="camera_picture_Saving">Сохранение...</string>

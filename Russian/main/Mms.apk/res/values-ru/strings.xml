@@ -37,7 +37,7 @@
     <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно.</string>
     <string name="copy_message_text">Скопировать текст</string>
     <string name="message_options">Параметры сообщения</string>
-    <string name="slideshow_options">Opciones de presentación</string>
+    <string name="slideshow_options">Параметры отображения</string>
     <string name="done">Назад</string>
     <string name="move_up">Переместить вверх</string>
     <string name="move_down">Переместить вниз</string>
@@ -417,7 +417,7 @@
     <string name="resize_imgae">Изменение размеров изображения ...</string>
     <string name="resize_imgae_title">Изменение размеров изображения</string>
     <string name="notification_content_with_privicy">Новое сообщение %s</string>
-    <string name="mycloud_not_found">My File application not founded! Please start My File first!</string>
+    <string name="mycloud_not_found">Мой Файл приложения не нашол! Установить, пожалуйста, мой первый файл!</string>
     <string name="recipient_pick_error">В настоящее время нельзя выбрать получателей</string>
     <string name="all_messages">Всего</string>
     <string name="resend">Отправить</string>
