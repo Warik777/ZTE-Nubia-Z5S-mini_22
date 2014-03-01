@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="files_list" />
+    <string-array name="files_format">
+        <item>Raw</item>
+        <item>Wav</item>
+    </string-array>
+    <string-array name="test_type_array">
+        <item>Жест</item>
+        <item>Взмахивание</item>
+        <item>Близость</item>
+    </string-array>
+</resources>
