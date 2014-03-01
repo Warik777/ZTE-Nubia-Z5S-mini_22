@@ -802,8 +802,9 @@
     <string name="set_voicemail">Установить голосовую почту</string>
     <string name="dialog_voicemail_not_ready_message2">Голосовая почта не установлена, установить?</string>
     <string name="contact_is_gone">Контакт был удален, не может сохранить.</string>
-	<string name="confirm_export_message_storage">Система будет экспортировать список контактов в следующий файл: %s, файл находится в каталоге телефон магазина.</string>
-    <string name="group_name_friends">Друзья</string>
-    <string name="group_name_family">Семья</string>
-    <string name="group_name_coworkers">Коллеги</string>	
+	<string name="confirm_export_message_storage">Система будет экспортировать список контактов в следующий файл: %s, файл находится в каталоге телефон магазина.</string>	
+	<string name="group_name_contacts">Контакты</string>
+	<string name="group_name_coworkers">Коллеги</string>
+	<string name="group_name_family">Семья</string>
+	<string name="group_name_friends">Друзья</string>
 </resources>

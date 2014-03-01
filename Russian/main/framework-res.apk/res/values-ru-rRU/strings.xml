@@ -1507,4 +1507,8 @@
     <string name="monthName">Месяц</string>
     <string name="run">Запустить</string>
     <string name="year_view">Вид года</string>
+	<string name="group_name_contacts">Контакты</string>
+	<string name="group_name_coworkers">Коллеги</string>
+	<string name="group_name_family">Семья</string>
+	<string name="group_name_friends">Друзья</string>
 </resources>
