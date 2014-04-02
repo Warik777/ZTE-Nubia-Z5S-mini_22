@@ -417,7 +417,7 @@
     <string name="frame_envelope">Конверт</string>
     <string name="frame_stamp">Штамп</string>
     <string name="frame_heart">Сердце</string>
-    <string name="card_recognition">"Впишите имя в центре экрана и нажмите кнопку спуска "</string>
+    <string name="card_recognition">"Поместите контакт в центр экрана и нажмите кнопку спуска "</string>
     <string name="panorama_tip">&lt;&lt;&lt; Пожалуйста, предвигайте телефон в одном направлении >>></string>
     <string name="ic_delay_shoot_off">@drawable/ic_delay_shoot_off_en</string>
     <string name="ic_delay_shoot_15">@drawable/ic_delay_shoot_15_en</string>

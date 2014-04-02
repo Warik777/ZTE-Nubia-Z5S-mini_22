@@ -2125,8 +2125,8 @@ It не стирать :
     <string name="summary_image_enhance_on">Вкл</string>
     <string name="summary_image_enhance_off">Выкл</string>
     <string name="screen_timeout_v5">Время подсветки экрана</string>
-    <string name="screen_timeout_30_sec">15 сек</string>
-    <string name="screen_timeout_1_min">30 сек</string>
+    <string name="screen_timeout_30_sec">30 сек</string>
+    <string name="screen_timeout_1_min">1 мин</string>
     <string name="screen_timeout_2_min">2 мин</string>
     <string name="screen_timeout_5_min">5 мин</string>
     <string name="screen_timeout_10_min">10 мин</string>

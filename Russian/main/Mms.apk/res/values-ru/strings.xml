@@ -419,7 +419,7 @@
     <string name="notification_content_with_privicy">Новое сообщение %s</string>
     <string name="mycloud_not_found">Мой Файл приложения не нашол! Установить, пожалуйста, мой первый файл!</string>
     <string name="recipient_pick_error">В настоящее время нельзя выбрать получателей</string>
-    <string name="all_messages">Всего</string>
+    <string name="all_messages">Выделить всё</string>
     <string name="resend">Отправить</string>
     <string name="fail_recipients_title">Группа отправляется, ошибка %s</string>
     <string name="sms_service_center">SMS-сервис центр</string>
