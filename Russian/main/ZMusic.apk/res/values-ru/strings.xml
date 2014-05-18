@@ -125,7 +125,7 @@
     <string name="main_menu_cloud">Облако</string>
     <string name="main_menu_add_playlist">Новый плейлист</string>
     <string name="add_favorite_tip">добавить в список избранного</string>
-    <string name="del_favorite">удалить из изброанного</string>
+    <string name="del_favorite">удалить из избранного</string>
     <string name="add_songs">Добавить</string>
     <string name="create_playlist_create_text_prompt">Имя плейлиста</string>
     <string name="favo_success_tip">Коллекция собрана успешно</string>

@@ -221,7 +221,7 @@
     <string name="normal_date_format">По умолчанию (%s)</string>
     <string name="display_preview_label">Предварительный просмотр:</string>
     <string name="display_font_size_label">Размер шрифта:</string>
-    <string name="intent_sender_data_label">Data:</string>
+    <string name="intent_sender_data_label">Данные:</string>
     <string name="intent_sender_sendbroadcast_text">Отправить broadcast</string>
     <string name="intent_sender_action_label">Action:</string>
     <string name="intent_sender_startactivity_text">Начать activity</string>

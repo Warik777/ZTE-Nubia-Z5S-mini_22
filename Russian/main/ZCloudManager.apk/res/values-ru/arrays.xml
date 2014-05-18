@@ -11,7 +11,7 @@
     </string-array>
     <string-array name="uninstalled_operation">
         <item>Установить</item>
-        <item>Share</item>
+        <item>Поделиться</item>
         <item>Удалить</item>
     </string-array>
     <string-array name="cloud_installed_operation">
