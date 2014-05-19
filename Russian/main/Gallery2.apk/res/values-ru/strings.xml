@@ -495,7 +495,7 @@
     <string name="stroage_phone_entry">Память телефона</string>
     <string name="stroage_sdcard_entry">Карта памяти</string>
     <string name="stroage_eject_tip">Место хранения было изменено на SD карту</string>
-    <string name="stroage_path_detail">Изменить место хранения на SD карту? сделанные снимки будут сохранениы на память телефона.</string>
+    <string name="stroage_path_detail">Изменить место хранения на SD карту? Снимки будут сохранены в память телефона.</string>
     <string name="pref_stroage_phone">phone</string>
     <string name="pref_stroage_sdcard">sdcard</string>
     <string name="other_settings">Посмотреть другие настройки</string>
